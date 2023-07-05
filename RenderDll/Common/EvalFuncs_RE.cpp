@@ -7,7 +7,7 @@
 
 =============================================================================*/
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "shadow_renderer.h"
 #include <IEntityRenderState.h>
 

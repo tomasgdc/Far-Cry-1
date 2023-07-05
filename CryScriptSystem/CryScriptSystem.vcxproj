@@ -28,6 +28,7 @@
     <SccAuxPath />
     <SccLocalPath>.</SccLocalPath>
     <SccProvider>MSSCCI:Perforce SCM</SccProvider>
+    <ProjectGuid>{A52DDB05-9D2B-45F8-A85A-D1463E6CE7F0}</ProjectGuid>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release64|Win32'" Label="Configuration">

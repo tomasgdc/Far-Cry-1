@@ -10,7 +10,7 @@
 //
 //////////////////////////////////////////////////////////////////////
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "GL_Renderer.h"
 
 #include "IStatObj.h"

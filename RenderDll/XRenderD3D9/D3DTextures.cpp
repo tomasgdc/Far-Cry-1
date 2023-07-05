@@ -7,7 +7,7 @@
 
 =============================================================================*/
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "DriverD3D9.h"
 #include "I3dengine.h"
 #include "CryHeaders.h"

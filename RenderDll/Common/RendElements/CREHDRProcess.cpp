@@ -8,7 +8,7 @@ CODER: Andrey Honich
 =======================================================================
 */
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 
 
 // constructor/destructor

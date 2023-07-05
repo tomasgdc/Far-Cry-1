@@ -11,7 +11,7 @@
 //
 //////////////////////////////////////////////////////////////////////
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "NULL_Renderer.h"
 #include "../Common/shadow_renderer.h"
 

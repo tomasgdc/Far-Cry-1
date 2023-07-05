@@ -7,7 +7,7 @@
 
 =============================================================================*/
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "GL_Renderer.h"
 #include "GLCGVProgram.h"
 

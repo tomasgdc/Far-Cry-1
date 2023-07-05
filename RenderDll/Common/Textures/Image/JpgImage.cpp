@@ -7,7 +7,7 @@
 
 =============================================================================*/
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "CImage.h"
 #include "JpgImage.h"
 

@@ -1,5 +1,5 @@
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 
 #pragma warning(push)
 #pragma warning(disable:4244) // conversion from 'double' to 'float', possible loss of data

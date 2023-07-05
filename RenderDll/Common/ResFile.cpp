@@ -1,7 +1,7 @@
 // ResFile.cpp : implementation file
 //
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "ResFile.h"
 
 #include "lzss.h"

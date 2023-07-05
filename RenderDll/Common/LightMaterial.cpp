@@ -9,7 +9,7 @@
 
 #define LIGHTMATERIAL_CPP
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "CommonRender.h"
 
 

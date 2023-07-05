@@ -1,4 +1,4 @@
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "RendElement.h"
 #include "CREOcean.h"
 #include "../NvTriStrip/NVTriStrip.h"

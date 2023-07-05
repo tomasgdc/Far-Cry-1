@@ -1,4 +1,4 @@
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "nvparse.h"
 
 #define yy_create_buffer ps10__create_buffer

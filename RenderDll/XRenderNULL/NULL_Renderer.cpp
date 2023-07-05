@@ -11,7 +11,7 @@
 //
 //////////////////////////////////////////////////////////////////////
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "NULL_Renderer.h"
 
 // init memory pool usage

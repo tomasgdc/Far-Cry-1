@@ -10,7 +10,7 @@
 #undef THIS_FILE
 static char THIS_FILE[] = __FILE__;
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "RendElement.h"
 
 //===============================================================

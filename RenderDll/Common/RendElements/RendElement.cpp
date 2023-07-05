@@ -7,7 +7,7 @@
 
 =============================================================================*/
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 
 //TArray<CRendElement *> CRendElement::m_AllREs;
 

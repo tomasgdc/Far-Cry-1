@@ -8,7 +8,7 @@
 =============================================================================*/
 
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "../CommonRender.h"
 
 STexPic* STexShadow::m_pBasisTex[2];

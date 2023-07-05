@@ -7,7 +7,7 @@
     
 =============================================================================*/
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "GL_Renderer.h"
 #include <ICryAnimation.h>
 #include "..\common\shadow_renderer.h"

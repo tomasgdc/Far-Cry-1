@@ -7,7 +7,7 @@
 
 =============================================================================*/
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "DriverD3D9.h"
 #include <IEntityRenderState.h>
 #include "../Common/Shadow_Renderer.h"

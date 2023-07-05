@@ -8,7 +8,7 @@
 =============================================================================*/
 
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "GL_Renderer.h"
 
 #undef THIS_FILE

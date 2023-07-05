@@ -13,7 +13,7 @@ Todo:
 =======================================================================
 */
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "DriverD3D9.h"
 #include "D3DCGPShader.h"
 #include "D3DCGVProgram.h"

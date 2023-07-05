@@ -11,7 +11,7 @@
 static char THIS_FILE[] = __FILE__;
 
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "GL_Renderer.h"
 #include "cg\cgGL.h"
 #include "GLCGVProgram.h"

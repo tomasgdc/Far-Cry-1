@@ -7,7 +7,7 @@
 
 =============================================================================*/
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "NULL_Renderer.h"
 
 TTextureMap CNULLTexMan::m_RefTexs;

@@ -10,7 +10,7 @@
 //
 //////////////////////////////////////////////////////////////////////
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "GL_Renderer.h"
 #include "I3dengine.h"											// USE_SHADOW_VERSION
 

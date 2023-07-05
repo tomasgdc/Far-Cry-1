@@ -8,7 +8,7 @@
 =============================================================================*/
 
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "../CommonRender.h"
 #include "Image/DDSImage.h"
 #include "Image/dds.h"

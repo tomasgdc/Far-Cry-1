@@ -13,7 +13,7 @@
 //
 ////////////////////////////////////////////////////////////////////////////
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "cryheaders.h"
 #include "nvtristrip/nvtristrip.h"
 #include "serializebuffer.h"

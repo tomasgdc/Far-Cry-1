@@ -10,7 +10,7 @@
 //
 //////////////////////////////////////////////////////////////////////
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 #include "NULL_Renderer.h"
 
 void *CVertexBuffer::GetStream(int nStream, int *nOffs)

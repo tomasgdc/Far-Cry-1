@@ -12,7 +12,7 @@ Last Update: 16/06/2003
 =======================================================================
 */
 
-#include "RenderPCH.h"
+#include "../RenderDll/RenderPCH.h"
 
 // some helper macros
 #define SET_PARAMETER(pProcess, pParam, pType, pValue) \
