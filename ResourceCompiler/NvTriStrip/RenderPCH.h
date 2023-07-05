@@ -65,7 +65,7 @@ typedef unsigned char BYTE;
 #include <vector>
 #include <list>
 #include <map>	
-#include <hash_map>	
+#include <unordered_map>	
 #include <set>
 #include <string>
 #include <algorithm>

@@ -26,7 +26,7 @@ inline mapped_type find_in_map(const Map& mapKeyToValue, key_type key, mapped_ty
 #include "platform.h"
 #include <ext/hash_map>
 #else
-#include <hash_map>
+#include <unordered_map>
 #endif
  // TODO: get rid of it and use map
 template <typename Map>
@@ -310,7 +310,7 @@ namespace stl
 #ifdef _STLP_HASH_MAP // STL Port
 		std::hash_map<Key,Value,HashFunc,HashFunc>
 #else
-		std::hash_map<Key,Value,HashFunc>
+		std::unordered_map<Key,Value,HashFunc>
 #endif // STL Port
 	{};
 #endif //LINUX

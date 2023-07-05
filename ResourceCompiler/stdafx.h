@@ -43,7 +43,7 @@ inline const char* constchar_cast( const CPortableString &str )
 }
 
 #else
-#include <hash_map>
+#include <unordered_map>
 #endif
 //#include <StlDbgAlloc.h>
 // to make smoother transition back from cry to std namespace...

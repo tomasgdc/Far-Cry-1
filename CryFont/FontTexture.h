@@ -19,7 +19,7 @@
 #if defined(LINUX)
 #include <ext/hash_map>
 #else
-#include <hash_map>
+#include <unordered_map>
 #endif
 #endif
 

@@ -43,7 +43,7 @@ class CEntityClonesMgr;
 #include <ext/hash_map>
 #include "ientityrenderstate.h"
 #else
-#include <hash_map>
+#include <unordered_map>
 #endif
 #endif
 
